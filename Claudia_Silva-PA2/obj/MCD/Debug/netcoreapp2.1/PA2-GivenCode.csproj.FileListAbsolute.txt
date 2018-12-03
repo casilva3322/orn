@@ -1,0 +1,11 @@
+C:\4360\PA2\bin\MCD\Debug\netcoreapp2.1\PA2-GivenCode.deps.json
+C:\4360\PA2\bin\MCD\Debug\netcoreapp2.1\PA2-GivenCode.runtimeconfig.json
+C:\4360\PA2\bin\MCD\Debug\netcoreapp2.1\PA2-GivenCode.runtimeconfig.dev.json
+C:\4360\PA2\bin\MCD\Debug\netcoreapp2.1\PA2-GivenCode.dll
+C:\4360\PA2\bin\MCD\Debug\netcoreapp2.1\PA2-GivenCode.pdb
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.csprojAssemblyReference.cache
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.csproj.CoreCompileInputs.cache
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.AssemblyInfoInputs.cache
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.AssemblyInfo.cs
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.dll
+C:\4360\PA2\obj\MCD\Debug\netcoreapp2.1\PA2-GivenCode.pdb

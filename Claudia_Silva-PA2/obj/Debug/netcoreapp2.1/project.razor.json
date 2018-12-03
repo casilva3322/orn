@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "u:\\WTAMU\\MyClasses\\Fall2018\\OOAD\\HW\\PA#2\\PA#2\\PA2-GivenCode\\PA2-GivenCode.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
